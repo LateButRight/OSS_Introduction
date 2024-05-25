@@ -1,2 +1,2 @@
 # OSS_Introduction
-Created for school assignment
+*Created for school assignment*
